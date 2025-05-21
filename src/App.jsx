@@ -1,5 +1,6 @@
 import React from 'react'
 import Add from './Add'
+import Ag from './Ag'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
     <p>add new line</p>
     <p>add the login page</p>
     <Add></Add>
+    <Ag></Ag>
   </> 
     
   )
