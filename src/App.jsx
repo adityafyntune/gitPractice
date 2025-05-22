@@ -1,5 +1,6 @@
 import React from 'react'
 import Add from './Add'
+import Ag from './Ag'
 
 function App() {
   return (
@@ -7,7 +8,9 @@ function App() {
     <p>my name is aditya gautam</p>
     <p>add new line</p>
     <p>add the login page</p>
+    <p>hiii</p>
     <Add></Add>
+    <Ag></Ag>
   </> 
     
   )
